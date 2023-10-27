@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EntainTechnicalTask</string>
+    <string name="title">Next Race To Go</string>
+    <string name="empty_list_message">Please wait for a while, there are no upcoming races available at the moment</string>
+</resources>
