@@ -51,7 +51,8 @@ Getting Started
    git clone https://github.com/Dharra/EntainTechanicalTask.git
    ```
 3. Import the project into Android Studio.
-4. Build and run the sample.
+4. checkout master branch.
+5. Build and run the sample.
 
 ### Installation
 - Supports any device with a minimum SDK of 24.
