@@ -86,4 +86,3 @@ Dhara Kavathiya - [Linkedin](linkedin.com/in/dhara-kavathiya-30b97bbb) - dharap4
 
 Project Link: [https://github.com/Dharaa/EntainTechanicalTask](https://github.com/Dharaa/EntainTechanicalTask)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
